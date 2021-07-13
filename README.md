@@ -1,1 +1,1 @@
-# Currency-Converter-App
+# Currency-Converter-Desktop GUI based Application
